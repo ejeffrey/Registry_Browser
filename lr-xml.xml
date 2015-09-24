@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<labrad>
+  <cluster>
+    <word>231</word>
+    <string>test</string>
+    <complex unit="nS">3.2 + 2j</complex>
+    <list dim="2" shape="2,2" dtype="v[nV]">
+      <value unit="nV">32.1</value>
+      <value unit="nV">21.1</value>
+      <value unit="uV">0.0931</value>
+      <value>1.032e-8</value>
+    </list>
+  </cluster>
+</labrad>
